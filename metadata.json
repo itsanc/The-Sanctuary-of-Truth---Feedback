@@ -1,0 +1,6 @@
+{
+  "name": "The Sanctuary of Truth - Feedback",
+  "description": "An elegant feedback landing page for The Sanctuary of Truth in Pattaya, Thailand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
